@@ -2,3 +2,5 @@ generated
 target
 
 /swift
+xcuserdata/
+.xcuserdatad
